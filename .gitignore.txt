@@ -1,3 +1,7 @@
 .ipynb+checkpoints
 .git
+<<<<<<< HEAD
 zippedData/
+=======
+zippedData
+>>>>>>> c54ac033e909660117f040afada7d96d7a146f89
