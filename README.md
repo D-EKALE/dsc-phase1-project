@@ -23,5 +23,7 @@ Based on the analysis, we recommend the following for Microsoft Studios:
 3. Release movies in the months of May, June, or July to maximize box office revenue.
 4. Consider producing short films, documentary films, and action/adventure films to cater to different audience preferences.
 
-Contact Information
-Thank you for considering this analysis. For any questions or further information, please feel free to contact me on my LinkedIn profile.
+### Contact Information
+Thank you for considering this analysis.    
+For any questions or further information, please feel free to contact me on my LinkedIn profile.    
+Blog post URL: https://www.linkedin.com/in/daniel-ekale/
